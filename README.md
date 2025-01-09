@@ -50,6 +50,8 @@ Database: SQL Server
 Languages: SQL
 
 ### Key Findings
-Top Spends by Cities: Cities like Delhi and Mumbai dominate credit card spends.
-Highest Spending Month: December tends to see the highest spends across card types.
-Gender Contribution: Female users contribute significantly to specific expense types like shopping and entertainment.
+1. Top Spends by Cities: Cities like Delhi and Mumbai dominate credit card spends.
+
+2. Highest Spending Month: December tends to see the highest spends across card types.
+
+3. Gender Contribution: Female users contribute significantly to specific expense types like shopping and entertainment.
