@@ -1,10 +1,9 @@
 # SQL-Portfolio-Project
-SQL Data Analysis Project – Credit Card Transactions
 SQL Portfolio Project: Credit Card Transactions Analysis
 📄 Project Overview
 This project is an analysis of a credit card transactions dataset to uncover insights into spending habits, transaction patterns, and city-wise trends. The dataset was imported into SQL Server, cleaned, and analyzed using SQL queries. The project demonstrates practical SQL skills, including querying, aggregating, and deriving meaningful insights from data.
 
-Dataset Source: Analyzing Credit Card Spending Habits in India
+Dataset Source: Kaggle
 
 📊 Key Objectives
 Analyze transaction data to derive meaningful insights.
@@ -12,8 +11,7 @@ Solve specific business problems using SQL queries.
 Present findings in a structured and actionable manner.
 🛠 Project Setup
 1. Download the Dataset
-Download the dataset from the Kaggle link.
-Alternatively, use the dataset provided in the project repository (if included).
+https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
 2. Import Dataset to SQL Server
 Change column names to lowercase and replace spaces with underscores.
 Adjust column data types as required (e.g., int, float, datetime, etc.).
@@ -49,7 +47,7 @@ Query to determine the city that took the least number of days to reach its 500t
 🖥️ Tools and Technologies
 Database: SQL Server
 Languages: SQL
-Tools: PowerPoint (for presentation), GitHub (for version control)
+
 📈 Key Findings
 Top Spends by Cities: Cities like Delhi and Mumbai dominate credit card spends.
 Highest Spending Month: December tends to see the highest spends across card types.
