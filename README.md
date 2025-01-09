@@ -1,5 +1,6 @@
 # SQL-Portfolio-Project
-SQL Portfolio Project: Credit Card Transactions Analysis
+## SQL Portfolio Project: Credit Card Transactions Analysis
+
 📄 Project Overview
 This project is an analysis of a credit card transactions dataset to uncover insights into spending habits, transaction patterns, and city-wise trends. The dataset was imported into SQL Server, cleaned, and analyzed using SQL queries. The project demonstrates practical SQL skills, including querying, aggregating, and deriving meaningful insights from data.
 
